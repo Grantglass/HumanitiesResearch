@@ -30,7 +30,9 @@ Often, the assignment or research question will shape what method you will utliz
 The library catalogue is often the best place to start research. 
 
 [UNC-CH](https://library.unc.edu) - UNC Libraries search
+
 [WorldCat](https://www.worldcat.org) - World Wide search
+
 [Google Scholar](https://scholar.google.com) - World Wide search
 
 ## Boolean Search
