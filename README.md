@@ -22,11 +22,11 @@ What are the "methods" of the humanities?
 ```
 Often, the assignment or research question will shape what method you will utlize. It is extremely important to understand your research question first! Write it down and think about what sorts of method(s) you will need to answer your question.
 
-A research question should start with “how,” “why,” or “what” 
+1. A research question should start with “how,” “why,” or “what” 
 
-A research question should be open-ended (i.e., not answerable with a simple “yes” or “no,” or a quick response, such as a statistic)
+2. A research question should be open-ended (i.e., not answerable with a simple “yes” or “no,” or a quick response, such as a statistic)
 
-A research question should have a debatable, multi-faceted answer.
+3. A research question should have a debatable, multi-faceted answer.
 
 ```
 
