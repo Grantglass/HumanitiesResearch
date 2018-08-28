@@ -12,7 +12,6 @@ What are the "methods" of the humanities?
 
 2. A bibliographic or technocritical method focuses on the material conditions of the text in question. Its most common form exists in textual criticism, which is concerned with the analysis of a given text in its material form. 
 
-
 3. A institutional method focuses on the social, economic, and political conditions that surround a text. Often times, this method more narrowly focuses on the intersections gender, race, and class within a given work. Incarnations of this analysis include: Marxism, New Historicism, and Post-Colonialsm. 
 
 4. Hermeneutics and reception theory are similar methods that look at the behaviors and intensions of the author and readers. One can look at how meaning is constructed by different groups and individuals through studing their interpretations of the text or by studying an author's personal writings. 
@@ -20,9 +19,15 @@ What are the "methods" of the humanities?
 
 ## Where do I go?
 
-
 ```
 Often, the assignment or research question will shape what method you will utlize. It is extremely important to understand your research question first! Write it down and think about what sorts of method(s) you will need to answer your question.
+
+A research question should start with “how,” “why,” or “what” 
+
+A research question should be open-ended (i.e., not answerable with a simple “yes” or “no,” or a quick response, such as a statistic)
+
+A research question should have a debatable, multi-faceted answer.
+
 ```
 
 ## Getting Started
@@ -72,6 +77,42 @@ Your search results would now have both these terms included.
 
 [Sarah Morehouse, “Using Citation Chaining to Enhance Your Search,” SUNY Empire State College, August 20, 2015.](http://subjectguides.esc.edu/researchskillstutorial/citationchain). - Citation Chaining
 
+
+
+### Key terms
+
+Citations: Citations appear in the text of your composition to show where you are using source material. They will follow a specific set of established conventions. 
+
+Primary and Secondary Sources: Primary sources are original sources, and secondary sources interpret primary sources or other information.  Both types of  sources can support your ideas.
+
+Scholarly vs. Popular Sources: Scholarly sources speak to specialized or academic audiences while the audiences for popular sources typically have much less experience with the topic.
+
+Intellectual Property: When we acknowledge that producers of original works deserve credit for their creation, we honor their intellectual property. 
+
+Academic Integrity: Academic integrity stems from honesty, care, and attention to detail-- foundations of ethical research.
+Plagiarism: Committing plagiarism, which is failing to give credit for work that is not your own, can have embarrassing or career-damaging consequences.
+
+
+
+### Activity
+
+Come up with some keywords about your topic:"Irish Independence"
+
+What background information do I need to find to better understand my topic? 
+What are the key terms that writers use when addressing this topic?
+What central claim(s) might I want to make?  What are the issues or controversies inherent in these claims?
+
+
+Complete the following tasks, then answer the reflection questions.
+1. Brainstorm and jot down a list of keywords related to your topic Choose one of the keywords and use it in a search on Google
+2. Use the same keyword in a “TX All Text” search on Academic Search Premier (library.unc.edu > E-Research by Discipline > Academic Search Premier
+3. Within these search results, use the “Subject: Thesaurus” and “Subject” options under “Refine Results” to further narrow your search
+
+Reflection questions:
+
+1. What are the key differences between the results returned in these searches? Which yielded more results? Which yielded results more relevant to your topic?
+2. Based on the list search results from Google, what will be the next steps in your research plan? How will you refine your topic?
+3. Click on an entry from among the Academic Search Premier search results.  What did you learn about the source from this page?  How do the keywords listed there compare to the keywords you generated in Step 1 above?
 
 
 
