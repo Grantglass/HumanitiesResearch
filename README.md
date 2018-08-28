@@ -53,6 +53,16 @@ The Boolean search operator OR is the default setting of any search engine; mean
 The Boolean search operator NEAR is equal to putting a search query in quotes, i.e., "sponge bob squarepants". You're essentially telling the search engine that you want all of these words, in this specific order or this specific phrase.
 ```
 
+Be aware:  In many, but not all, databases, the AND is implied. 
+For example, Google automatically puts an AND in between your search terms.
+
+Though all your search terms are included in the results, they may not be connected together in the way you want.
+For example, this search:  college students test anxiety  is translated to:  college AND students AND test AND anxiety. The words may appear individually throughout the resulting records.
+
+You can search using phrases to make your results more specific.
+For example:  "college students" AND "test anxiety". This way, the phrases show up in the results as you expect them to be.
+
+
 
 ## Boolean Basic Math - Can Help With Your Search
 
